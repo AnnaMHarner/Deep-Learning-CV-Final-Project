@@ -1,7 +1,7 @@
 # CS542 Final Project: NIH Chest X-Ray Classification
 
-**Names:** Marissa Estramonte, Chaz Gillette, and  Anna Harner
-**Student IDs:** 2405291, 
+**Names:** Marissa Estramonte, Chaz Gillette, and  Anna Harner  
+**Student IDs:** 2405291,   
 **Date:** 2/27/2026  
 
 ## GitHub Repository
