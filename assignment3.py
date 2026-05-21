@@ -12,7 +12,7 @@ Scenarios:
   (a) Custom CNN backbone + Faster R-CNN, from scratch
   (b) RT-DETR (PekingU/rtdetr_r50vd), from scratch
   (c) Faster R-CNN pretrained, backbone frozen throughout
-  (d) DETR pretrained, two-phase fine-tuning
+  (d) DETR (facebook/detr-resnet-50), two-phase fine-tuning
 
 Run from inside Docker container:
   python3 /app/rundir/Deep-Learning-CV-Final-Project/assignment3.py \
